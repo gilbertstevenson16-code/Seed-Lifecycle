@@ -36,4 +36,4 @@ The browser test covers desktop and mobile, WebGL initialization, the entry gate
 
 The repository owner confirmed authorization to use and modify the design, fonts, textures, shaders, and source/reference material. Fonts and textures are served from the owner's Cloudflare R2 bucket. No third-party license is granted by this repository; anyone redistributing the template must confirm that their license covers those materials.
 
-See [AI_START_HERE.md](AI_START_HERE.md), [docs/r2-assets.md](docs/r2-assets.md), and [docs/migration-report.md](docs/migration-report.md).
+See [PROMPT.md](PROMPT.md) for the universal Claude/GPT/agent prompt, [AI_START_HERE.md](AI_START_HERE.md) for repository-specific operating rules, [docs/product-draft.md](docs/product-draft.md) for the marketplace form draft, and [docs/r2-assets.md](docs/r2-assets.md) for media details.
