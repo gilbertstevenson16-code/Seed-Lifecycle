@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "project": "seed-lifecycle",
+  "release": "630f0ebbe7097b45",
+  "prefix": "templates/seed-lifecycle/releases/630f0ebbe7097b45",
+  "baseUrl": "https://cdn.promptedsite.com/templates/seed-lifecycle/releases/630f0ebbe7097b45",
+  "totalBytes": 6768136,
+  "files": {
+    "branding/favicon.svg": {
+      "bytes": 454,
+      "sha256": "92209772fc3f0083d1a1ed20fed81699a0c520b04e72f7ab30f696dae6f77420",
+      "contentType": "image/svg+xml"
+    },
+    "decoders/basis/basis_transcoder.js": {
+      "bytes": 57529,
+      "sha256": "8478b5b6d6b74e7d3082b89f6417321d8d1dc0307f2b30d4484bb11b441696a1",
+      "contentType": "application/javascript"
+    },
+    "decoders/basis/basis_transcoder.wasm": {
+      "bytes": 527333,
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a",
+      "contentType": "application/wasm"
+    },
+    "decoders/ktx-zstd.wasm": {
+      "bytes": 527333,
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a",
+      "contentType": "application/wasm"
+    },
+    "fonts/saol-display.woff2": {
+      "bytes": 35188,
+      "sha256": "388aa9a18cd14f592b74976deceae0046027e195cebb40433210df5676b73f47",
+      "contentType": "font/woff2"
+    },
+    "fonts/suisse-intl-mono.woff2": {
+      "bytes": 13188,
+      "sha256": "c741468d9a5f3dcc2ec3ef91cb8cd0d2411dcf819aa49fafa5871435e4cc1a5e",
+      "contentType": "font/woff2"
+    },
+    "fonts/suisse-intl.woff2": {
+      "bytes": 52004,
+      "sha256": "a1bd10b6ed388425809ea1941dd148251b0bd9c326dd6c599ec32461c4790b90",
+      "contentType": "font/woff2"
+    },
+    "textures/ash/albedo.ktx2": {
+      "bytes": 290587,
+      "sha256": "9eaa167bc25b3e31c14391b5e26061ffcb077f590baf39dd82d26b7f5e390054",
+      "contentType": "image/ktx2"
+    },
+    "textures/ash/arm.ktx2": {
+      "bytes": 88139,
+      "sha256": "22a4a78675c20ec9e5052450e7cc291af4e4629c37da56b3bee1783db2c7c4ab",
+      "contentType": "image/ktx2"
+    },
+    "textures/ash/normal.ktx2": {
+      "bytes": 436830,
+      "sha256": "fd83419510ef0a349da5a46966507652ab8a1144100104bf5bc32de32e54ca50",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/1k/albedo.ktx2": {
+      "bytes": 246204,
+      "sha256": "450d96f1005cf8796058206c47b2cccc96148af382568f951c969af2e51a48bd",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/1k/arm.ktx2": {
+      "bytes": 98922,
+      "sha256": "49d6aa2fb51614b7b9370f77ea38ec2f86db822d878d253904bd75546a09794d",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/1k/normal.ktx2": {
+      "bytes": 458185,
+      "sha256": "a04239d7116fd5086b2609d732e2574599c3c4f10bb50caa2423cd58dd8142bd",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/2k/albedo.ktx2": {
+      "bytes": 863174,
+      "sha256": "15554af0d68d5949fccd12eb6254ce6864dac229adea066271551113f8a0cf6f",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/2k/arm.ktx2": {
+      "bytes": 276448,
+      "sha256": "4f1fe7af950dd776d7f28640fbc8777c10292260c0cb1f66ea9096d6e291a9bb",
+      "contentType": "image/ktx2"
+    },
+    "textures/soil/2k/normal.ktx2": {
+      "bytes": 1717148,
+      "sha256": "4986d213512063c3e1bf06449076644161403dc59c0629cbf3421e8dfc1046c1",
+      "contentType": "image/ktx2"
+    },
+    "textures/trees/fir-albedo.ktx2": {
+      "bytes": 517533,
+      "sha256": "f1f050b14ce1e06f75b7cedb0217800c48d10e7a9f817b146c9e2b73f79a9273",
+      "contentType": "image/ktx2"
+    },
+    "textures/trees/fir-normal.ktx2": {
+      "bytes": 561937,
+      "sha256": "7e617fd9f0e50109a722e13f15bee2620133ea5b839133555e324e85b5bf6d12",
+      "contentType": "image/ktx2"
+    }
+  }
+}
