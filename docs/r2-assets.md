@@ -23,7 +23,7 @@ Every object was checked by CDN download, SHA-256, Content-Type, and CORS. Runti
 
 ## Preview fallback
 
-Some hosted AI artifact panels block third-party CDN requests even when R2 CORS is correct. A byte-identical fallback package is published as the GitHub Release [`artifact-assets-630f0ebbe7097b45`](https://github.com/hiiD4vd/promptedsite-template-03/releases/tag/artifact-assets-630f0ebbe7097b45).
+Some hosted AI artifact panels block third-party CDN requests even when R2 CORS is correct. A byte-identical fallback package is published as the GitHub Release [`artifact-assets-630f0ebbe7097b45`](https://github.com/gilbertstevenson16-code/Seed-Lifecycle/releases/tag/artifact-assets-630f0ebbe7097b45).
 
 - Archive: `seed-lifecycle-assets-630f0ebbe7097b45.zip`
 - SHA-256: `c2111860d3f9b9fe9116e7704e1ea353260eb3e6ad933913d27ff4b42852ac2e`

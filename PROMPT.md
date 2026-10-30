@@ -7,7 +7,7 @@ You are continuing an existing, authorized React + TypeScript project named **Se
 Use the first source available in this order:
 
 1. The source project or ZIP attached to this conversation/product.
-2. The tagged repository source: `https://github.com/hiiD4vd/promptedsite-template-03.git`, tag `template-v1.0.0`.
+2. The tagged repository source: `https://github.com/gilbertstevenson16-code/Seed-Lifecycle.git`, tag `template-v1.0.1`.
 3. The repository's `main` branch only when the tag is unavailable.
 
 After obtaining the source, read `AI_START_HERE.md`, `README.md`, and `docs/r2-assets.md` before changing anything. Existing source files are authoritative. Do not regenerate components, CSS, shaders, chapter data, or interactions from visual inference.
@@ -24,7 +24,7 @@ Do not ask the user to choose a workflow when the environment can be detected fr
 
 ### Local or remote coding agent
 
-1. Use the attached source when present. Otherwise clone the repository and check out `template-v1.0.0`.
+1. Use the attached source when present. Otherwise clone the repository and check out `template-v1.0.1`.
 2. Run `npm ci`.
 3. Run `npm run typecheck`, `npm run lint`, and `npm run build`.
 4. Start the site with `npm run dev -- --host 0.0.0.0 --port 3140`.
@@ -37,7 +37,7 @@ Do not ask the user to choose a workflow when the environment can be detected fr
 1. Import the attached source or the tagged GitHub source; do not rewrite it as a single-file mockup.
 2. Try the canonical R2 assets first.
 3. If the panel blocks `cdn.promptedsite.com`, download this fallback package yourself—do not ask the user to upload a ZIP:
-   `https://github.com/hiiD4vd/promptedsite-template-03/releases/download/artifact-assets-630f0ebbe7097b45/seed-lifecycle-assets-630f0ebbe7097b45.zip`
+   `https://github.com/gilbertstevenson16-code/Seed-Lifecycle/releases/download/artifact-assets-630f0ebbe7097b45/seed-lifecycle-assets-630f0ebbe7097b45.zip`
 4. Verify the archive SHA-256:
    `c2111860d3f9b9fe9116e7704e1ea353260eb3e6ad933913d27ff4b42852ac2e`
 5. Extract the archive as companion files inside the artifact and map the manifest paths to relative URLs. Keep this as preview-only packaging; do not commit the binaries or replace the canonical R2 configuration.

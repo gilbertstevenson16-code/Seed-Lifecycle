@@ -32,7 +32,7 @@ Recommended filename: `seed-lifecycle-cover.png`. Use a clean 16:10 frame from t
 Upload or paste the complete contents of [`PROMPT.md`](../PROMPT.md). Do not use the migration prompt here: the product already contains the finished source, so the customer-facing prompt must require a user-visible interactive preview, then validate and customize that source. A build report or remote sandbox localhost URL does not satisfy the prompt.
 
 **Source code ZIP**  
-Recommended filename: `seed-lifecycle-source-v1.0.0.zip`. Include the repository source at tag `template-v1.0.0`; exclude `.git`, `node_modules`, `dist`, local validation captures, credentials, and media binaries. The runtime retrieves canonical media from R2, while the prompt documents the GitHub Release fallback for restricted browser panels.
+Recommended filename: `seed-lifecycle-source-v1.0.1.zip`. Include the repository source at tag `template-v1.0.1`; exclude `.git`, `node_modules`, `dist`, local validation captures, credentials, and media binaries. The runtime retrieves canonical media from R2, while the prompt documents the GitHub Release fallback for restricted browser panels.
 
 ## Showcase placement
 
